@@ -1,5 +1,6 @@
 library svgaplayer_flutter_player;
 
+import 'dart:io';
 import 'dart:math';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';

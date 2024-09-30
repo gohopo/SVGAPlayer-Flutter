@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_is_empty, avoid_function_literals_in_foreach_calls, unnecessary_import, prefer_const_constructors
+
 import 'dart:developer';
 import 'dart:ui' as ui;
 import 'dart:typed_data' show Uint8List;
